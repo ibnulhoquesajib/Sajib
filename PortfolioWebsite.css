@@ -1,0 +1,35 @@
+#Home h3{
+    font-size: 45px;
+}
+#Home h1{
+    font-size: 63px;
+    line-height: 1.2;
+}
+#Home p{
+    font-size: 20px;
+    margin: 25px 0 30px;
+}
+#button{
+    width: 445px;
+    display: flex;
+    gap: 2em;
+}
+#Contact{
+    padding: 15px 28px;
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    letter-spacing: 1px;
+
+}
+#content{
+    padding: 15px 28px;
+    background-color:orange;
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
