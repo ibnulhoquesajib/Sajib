@@ -1,0 +1,56 @@
+body{
+    background-color: bisque;
+}
+#Sorry{
+    height: 60px;
+    width: 1500px;
+    background-color: black;
+    border-radius: 10px;
+    padding-top: 25px;
+   
+ 
+}
+ a{
+     margin: 120px;
+     text-decoration: none;
+     color: #f08804;
+     font-size: 20px;
+     
+ }
+ #one{
+    font-family: 'Times New Roman', Times, serif;
+ }
+ #two{
+    font-family: 'Times New Roman', Times, serif;
+    
+ }
+ #three{
+   font-family: 'Times New Roman', Times, serif;
+    
+ }
+ #Box{
+    height: 300px;
+    width: 300px;
+    background-color: #f08804;
+    border-radius: 50%;
+    margin-left: 1000px;
+    background-image: url("sajib.jpg");
+    background-size: cover;
+ }
+#footer{
+   height: 60px;
+   width: 1500px;
+   background-color: rgb(255, 255, 255);
+   border-radius: 10px;
+   padding-top: 18px;
+   
+}
+button{
+   color: #f08804;
+   background-color: black;
+}
+h1, h2 ,h4{
+   color: #0e23c2;
+}
+ 
+ 
