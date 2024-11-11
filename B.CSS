@@ -1,0 +1,70 @@
+*{
+    color: #f08804;
+}
+body{
+    background-image: url(amar\ boi.jpeg);
+    background-size:cover;
+}
+div{
+    height: 60px;
+    background-color:black;
+    padding-top: 25px;
+    border-radius: 15px;
+}
+button{
+   background-color: #f08804 ; 
+   color: white;
+   border-radius: 5px;
+}
+a{
+    margin: 55px;
+    font-size: 20px;
+    text-decoration: none;
+}
+#Thanks{
+    font-size: 30px;
+}
+#size{
+    border-radius: 5px;
+}
+button{
+    margin: 15px;
+    padding: 5px 5px 5px 5px;
+}
+#book{
+    color: rgb(245, 245, 245);
+    font-weight: bold;
+    margin-top: 280px;
+    margin-left: 360px;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+h5{
+    color: antiquewhite;
+    font-weight: bold;
+    margin-left: 550px;
+    font-size: 15px;
+}
+#order{
+    margin-left: 650px;
+    padding: 15px 15px 15px 15px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+#order:hover{
+    background-color: white;
+    color: black;
+}
+button:hover{
+    background-color:white ;
+    color: black;
+}
+a:hover{
+    color: white;
+}
+a:active{
+    color: brown;
+}
+
+ 
